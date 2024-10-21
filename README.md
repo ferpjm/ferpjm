@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Bienvenido a mi perfil</h1>
 
-<!--
-**ferpjm/ferpjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Mi nombre es [Tu Nombre], soy actualmente estudiante de Ingeniería Informática de la [Universidad]. En mi GitHub subiré tanto repositorios relacionados con apuntes/ejercicios/trabajos de la universidad, como proyectos personales.
+</p>
 
-Here are some ideas to get you started:
+<h3 align="left">📬 Contacta conmigo:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/tu-linkedin" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tuemail@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
